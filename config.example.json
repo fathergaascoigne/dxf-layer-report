@@ -1,0 +1,13 @@
+{
+  "source_path": "S:/CAO/FILES/FORESSAIS",
+  "target_layers": [
+    "14"
+  ],
+  "unit_to_mm_factor": 1.0,
+  "recursive": true,
+  "workers": 4,
+  "include_missing_layers": true,
+  "include_read_errors": true,
+  "spline_segments": 96,
+  "ellipse_segments": 96
+}
