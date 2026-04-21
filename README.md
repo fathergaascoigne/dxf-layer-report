@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="140">
+  <img src="src/assets/icon.png" width="140">
 </p>
 
 # DXF Layer Report
