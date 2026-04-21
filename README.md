@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon.png" width="140">
+</p>
+
 # DXF Layer Report
 
 DXF Layer Report is a desktop tool designed to scan DXF files, measure geometry on selected layers, and generate a consolidated Excel report.
@@ -13,7 +17,7 @@ The application reads one DXF file or a complete folder of DXF files, searches f
 Typical use cases:
 
 - CAD file control
-- CNC / laser / cutting preparation
+- CNC / laser / cutting preparation / wielding
 - Estimation of cutting lengths
 - Batch verification of drawing files
 - Production reporting
